@@ -46,7 +46,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-gray-800 pt-6 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs">
-          <p>© 2025 AI Agent 模板市场. 基于 MIT 协议开源</p>
+          <p>© 2026 AI Agent 模板市场. 基于 MIT 协议开源</p>
           <p>专注中文 AI Agent 生态建设</p>
         </div>
       </div>
