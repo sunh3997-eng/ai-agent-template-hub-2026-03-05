@@ -1,0 +1,15 @@
+{
+  "name": "ai-agent-template-hub",
+  "title": "AI Agent 模板市场（中文版）",
+  "description": "一个中文化的 AI Agent 模板商店，让不会编程的用户也能一键部署专业 AI Agent",
+  "problem": "大量用户想用 AI Agent 提效（运营、客服、内容生产），但 GitHub 上的模板全是英文、部署门槛高",
+  "target_user": "中小企业主、自媒体运营者、独立开发者、副业探索者",
+  "tech": "Next.js + Supabase（或 Python Flask + SQLite），前端展示模板 + 一键部署脚本",
+  "mvp_features": [
+    "中文化的 Agent 模板展示页（从 agency-agents 等开源项目翻译）",
+    "一键部署教程（图文+视频，适配国内云服务如阿里云/腾讯云）",
+    "用户提交需求表单，对接定制服务"
+  ],
+  "why_now": "agency-agents 今日 GitHub +2209⭐ 爆火，AI Agent 需求井喷但中文生态空白，先发优势窗口期约3-6个月",
+  "monetization": "免费模板引流 + 高级模板付费（29-99元）+ 企业定制部署服务（2000-10000元/次）"
+}
